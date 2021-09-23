@@ -22,5 +22,4 @@ public class Scaner {
         String nombre=teclado.nextLine();
         System.out.println("nombre = " + nombre);
     }
-    
 }
